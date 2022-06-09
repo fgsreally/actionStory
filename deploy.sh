@@ -1,6 +1,5 @@
-git init
+
 git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:fgsreally/actionStory.git
-git push -u origin main
+git commit -m "2 commit"
+
+git push -u origin master
