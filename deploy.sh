@@ -1,4 +1,3 @@
 git add . 
-git commit -m "4 commit" 
-git remote add origin https://github.com/fgsreally/actionTest.git 
+git commit -m "no 5 commit" 
 git push -u origin master 
